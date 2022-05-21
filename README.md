@@ -10,7 +10,7 @@ For this project, I created browser-based text editor that meets PWA criteria. I
 - [License](#license)
 
 ## Usage
-Visit my [repo here](https://github.com/Quadrilateral0/Social-Network-API) and see below for a video demo.
+Visit my deployed application [here](https://github.com/Quadrilateral0/Text-Editor) and see below for a screenshot.
 
 The application requires [Node.js](https://nodejs.dev/learn/introduction-to-nodejs). Install the necessary dependencies in your terminal using the following command:
 ```bash
@@ -23,7 +23,7 @@ and invoke the program by using:
 npm start
 ```
 
-[![Video demo of completed project](images/API-demo.png)](https://youtu.be/d3MFNtsxTxM)
+[![Image of completed project](images/text-editor.png)](xxx)
 
 
 ## User Story
