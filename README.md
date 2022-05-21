@@ -23,7 +23,7 @@ and invoke the program by using:
 npm start
 ```
 
-[![Image of completed project](images/text-editor.png)](xxx)
+[![Image of completed project](images/text-editor.png)](https://shielded-depths-87330.herokuapp.com/)
 
 
 ## User Story
