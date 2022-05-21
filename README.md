@@ -10,7 +10,7 @@ For this project, I created browser-based text editor that meets PWA criteria. I
 - [License](#license)
 
 ## Usage
-Visit my deployed application [here](https://github.com/Quadrilateral0/Text-Editor) and see below for a screenshot.
+Visit my deployed application [here](https://shielded-depths-87330.herokuapp.com/) and see below for a screenshot.
 
 The application requires [Node.js](https://nodejs.dev/learn/introduction-to-nodejs). Install the necessary dependencies in your terminal using the following command:
 ```bash
